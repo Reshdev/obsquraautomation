@@ -23,6 +23,12 @@ public class WebElementCommands extends Base {
 		String borderColorofShowButton=showButton.getCssValue("border-color");
 		String fontColorofShowButton=showButton.getCssValue("color");
 		String fontWeightofShowButton=showButton.getCssValue("font-weight");
+		int showButtonXaxis=showButton.getLocation().getX();
+		int showButtonYaxis=showButton.getLocation().getY();
+		int singleInputFieldXaxis=singleInputField.getLocation().getX();
+		int singleInputFieldYaxis=singleInputField.getLocation().getY();
+		int showButtonHeight=showButton.getSize().getHeight();
+		int showButtonWidth=showButton.getSize().getWidth();
 	}
 	@Test
 	public void webCommands()

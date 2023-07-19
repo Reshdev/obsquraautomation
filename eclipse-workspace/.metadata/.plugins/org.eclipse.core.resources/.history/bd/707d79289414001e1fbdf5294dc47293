@@ -1,0 +1,13 @@
+package com.obsquraautomation;
+
+public class BrowserCommands extends Base {
+	
+	
+
+	public static void main(String[] args) {
+		BrowserCommands browsercommands=new BrowserCommands();
+		browsercommands.intialiseBrowser();
+		browsercommands.browserCloseorQuit();
+	}
+
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Acessmodifier.ClassA"/>
+    <fullyQualifiedTypeName name="aggregationsample.SampleClass"/>
+    <fullyQualifiedTypeName name="inheritance.Child"/>
+    <fullyQualifiedTypeName name="polymorphism.Parent11"/>
+    <fullyQualifiedTypeName name="aggregationA.Agr1"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+    <fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
+    <fullyQualifiedTypeName name="excelRead1.ExcelCode1"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+    <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+    <fullyQualifiedTypeName name="encapsulation_sample.Encapsulation1"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+</qualifiedTypeNameHistroy>

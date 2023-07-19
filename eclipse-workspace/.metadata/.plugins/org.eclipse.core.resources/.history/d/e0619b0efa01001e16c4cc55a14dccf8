@@ -1,0 +1,24 @@
+package inheritance;
+
+
+public class Parent
+{
+   int a=20;
+       int b=20;
+int c;
+
+
+class child1
+{
+
+void display()
+{
+	 c =a+b;
+	System.out.println(c);
+}
+
+}}
+
+
+
+}
